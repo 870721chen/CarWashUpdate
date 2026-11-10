@@ -1,6 +1,6 @@
 {
   "version": "0.01",
   "download_url": "https://github.com/870721chen/CarWashUpdate/releases/download/v0.02/CarWash.exe",
-  "sha256": " ",
-  "release_notes": "修正問題並改善系統功能"
+  "sha256": "bc7d5bd38789c2d9328ca478c6ba01e7ce864beda93bbdb792d5de501571687a",
+  "release_notes": "新增維護項目管理"
 }
