@@ -2,5 +2,5 @@
   "version": "0.03",
   "download_url": "https://github.com/870721chen/CarWashUpdate/releases/download/v0.03/CarWash.exe",
   "sha256": "25c41d2bf677b81e362cbf13c7309c3cf2dc892735dfcff85fdd5a6160298907",
-  "release_notes": "新增維護項目管理"
+  "release_notes": "新增維護項目管理 加入LINE USER ID 綁定狀態"
 }
