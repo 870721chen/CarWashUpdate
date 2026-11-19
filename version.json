@@ -1,6 +1,6 @@
 {
   "version": "0.04",
-  "download_url": "https://github.com/870721chen/CarWashUpdate/releases/download/v0.04/CarWash.exe",
-  "sha256": "6ae7f7381695855ce64eabfbcbcd33018973c25fd0d9dfd62ce59bb1a861445f",
-  "release_notes": "新稱維護通知管理"
+  "download_url": "https://github.com/870721chen/CarWashUpdate/releases/download/v0.05/CarWash.exe",
+  "sha256": "0926d64e96ad8429053f8c45631a9f8416e46694aa1c82ebee0634dceb68b27c",
+  "release_notes": "增加客戶合併 修改新增客戶與車輛限制。"
 }
